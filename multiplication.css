@@ -1,0 +1,75 @@
+body{
+    margin:0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    background-color: bisque;
+    background-image:url(https://tse3.mm.bing.net/th?id=OIP.gtohRs3IJ8BTKhR4CxIBZQHaE5&pid=Api&P=0);
+    background-size: cover;
+}
+.yesh{
+    background-position: 100%;
+    background-color: azure;
+    width: 60vh;
+    text-align: center;
+    height: 60vh;
+    box-shadow: 0 10px 5px;
+    border-radius: 30px;
+    
+}
+.form{
+    background-color: aquamarine;
+    height:50vh;
+    border-radius: 30px;
+    text-align: center;
+    justify-content: center;
+}
+h3{
+    color: rgb(27, 2, 2);
+    background-color:yellow;
+    padding: 10px;;
+font-style: bold;
+font-size: larger;
+
+}
+.enter{
+
+ border-radius: 20px;
+ height: 50px;
+ text-align: center;
+ display: block;
+ width: 60%;
+ box-sizing: border-box;
+font-size: larger;
+color: blue;
+padding: 10px;
+border: solid;
+margin-left: 20%;
+
+}
+button{
+    border-radius: 5px;
+   
+     display: block;
+     margin-left: 40%;
+     padding: 10px;
+     margin-top: 6%;
+     background-color: rgb(255, 127, 127);
+     font-style: italic;
+     width: 80px;
+     box-shadow: 0 4px 5px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-size: large;
+     cursor: pointer;
+    
+}
+button:hover{
+    background-color:blueviolet;
+    color:azure;
+    
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(17, 78, 131);
+}
